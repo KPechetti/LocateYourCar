@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocateYourCar</string>
+    <string name="welcome">Hey! Welcome to LYC!!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">Park Your Car</string>
+    <string name="button1">Park Here</string>
+</resources>
